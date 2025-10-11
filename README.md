@@ -3,7 +3,7 @@
 GitHub Pages site for Lecture 2.
 
 ## Live site
-https://snakees.github.io/RCOS-Lec-2  
+https://snakeees.github.io/RCOS-Lec-2/  
 Replace with your actual URL after publishing.
 
 ## What this repo includes
