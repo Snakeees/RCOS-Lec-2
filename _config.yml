@@ -1,0 +1,7 @@
+title: My RCOS Workshop Site
+description: "A demo site built for the GitHub Pages assignment"
+theme: minima
+# Add pages to the header navigation (minima supports header_pages)
+header_pages:
+  - about.md
+  - resources.md
