@@ -4,7 +4,6 @@ GitHub Pages site for Lecture 2.
 
 ## Live site
 https://snakeees.github.io/RCOS-Lec-2/  
-Replace with your actual URL after publishing.
 
 ## What this repo includes
 - Jekyll with `minima` theme (`_config.yml`)
@@ -18,3 +17,4 @@ Replace with your actual URL after publishing.
 - `.highlight-box` component on Home
 - Responsive images with `.responsive`
 - Underlined links
+
